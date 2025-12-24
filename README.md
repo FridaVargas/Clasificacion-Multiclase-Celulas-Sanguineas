@@ -15,6 +15,7 @@
   <img src="https://github.com/user-attachments/assets/bff43201-f3b3-4aa6-b1de-a2c3cba0289a" width="45%">
   <img src="https://github.com/user-attachments/assets/c28491f1-fc26-431b-8e56-beb1b7b8b16a" width="45%">
 </p>
+
 > Matrices de confusión de predicciones realizadas por una máquina de soporte vectorial con kernel SBF y la otra por una red neuronal convolucional.
 
 Este proyecto explora la **clasificación automática de células sanguíneas** a partir de imágenes microscópicas, comparando dos enfoques:
