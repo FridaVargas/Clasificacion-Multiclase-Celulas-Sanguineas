@@ -53,7 +53,7 @@ cuyas sugerencias, observaciones y explicaciones fueron clave.
 Una extensión realizada a este trabajo fue la implementación de filtros para atenuar el efecto del fondo en el cálculo de la matriz LGCM y la consideración de 10 atributos de la matriz en lugar de sólo 5.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/526a2227-3806-47e4-b552-8bc879ff8499" width="45%">
+  <img src="https://github.com/user-attachments/assets/526a2227-3806-47e4-b552-8bc879ff8499" width="110%">
 </p>
 Como resultado, el mejor modelo de clasificación fue un _Random Forest_ de 100 árboles, con un F1-score _macro_ de 79.08%, mejorando en casi 20 puntos el desempeño del mejor clasificador de datos tabulares que se enía previamente.
 
