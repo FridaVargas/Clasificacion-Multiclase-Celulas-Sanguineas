@@ -49,6 +49,15 @@ De esta forma se utiliza directamente la API de _kaggle_  y se descarga de maner
 Este proyecto fue desarrollado con la **asesoría y orientación del profesor David Alexis García Espinosa**,  
 cuyas sugerencias, observaciones y explicaciones fueron clave.
 
+-----
+Una extensión realizada a este trabajo fue la implementación de filtros para atenuar el efecto del fondo en el cálculo de la matriz LGCM y la consideración de 10 atributos de la matriz en lugar de sólo 5.
+<img width="754" height="257" alt="imagen" src="https://github.com/user-attachments/assets/526a2227-3806-47e4-b552-8bc879ff8499" />
+
+Como resultado, el mejor modelo de clasificación fue un _Random Forest_ de 100 árboles, con un F1-score _macro_ de 79.08%, mejorando en casi 20 puntos el desempeño del mejor clasificador de datos tabulares que se enía previamente.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2b780fa-a604-46a1-a0e4-6ab93562910c" width="45%">
+  <img src="https://github.com/user-attachments/assets/c28491f1-fc26-431b-8e56-beb1b7b8b16a" width="45%">
+</p>
 
 > Este trabajo tiene un **enfoque académico y exploratorio** y no pretende ser una herramienta diagnóstica.
-
